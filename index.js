@@ -122,4 +122,4 @@ function KnightMoves(origin, destination) {
   }
 }
 
-KnightMoves([0, 0], [5, 7]);
+KnightMoves([0, 0], [7, 7]);
